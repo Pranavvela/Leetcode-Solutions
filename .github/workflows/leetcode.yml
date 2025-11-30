@@ -1,0 +1,21 @@
+name: Auto Sync LeetCode
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Sync LeetCode
+        uses: LeetCode-OpenSource/leetcode-sync-action@v1.0.10
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode_username: ${{ secrets.LEETCODE_USERNAME }}
+          leetcode_password: ${{ secrets.LEETCODE_PASSWORD }}
+          leetcode_site: ${{ secrets.LEETCODE_SITE }}
