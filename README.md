@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [1895-largest-magic-square](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Hash Table
 |  |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Matrix
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
