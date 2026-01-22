@@ -1,40 +1,37 @@
 class Solution {
-    public int minPair(List<Integer> v) {
-        int minSum = (int)1e9;
-        int pos = -1;
-
-        for(int i = 0; i < v.size() - 1; i ++){
-            int sum = v.get(i) + v.get(i + 1);
-            if (sum < minSum) {
-                minSum = sum;
-                pos = i;
-            }
-        }
-        return pos;
-    }
-
-    public void mergePair(List<Integer> v, int pos) {
-        v.set(pos, v.get(pos) + v.get(pos + 1));
-        v.remove(pos + 1);
-    }
-
     public int minimumPairRemoval(int[] nums) {
-        List<Integer> v = new ArrayList<>();
-        for(int x : nums) v.add(x);
+        List<Long> arr = new ArrayList<>();
+        for (int num : nums) {
+            arr.add((long) num);
+        }
 
         int ops = 0;
-        while(!isSorted(v)){
-            int pos = minPair(v);
-            mergePair(v, pos);
+
+        while (true) {
+            boolean isSorted = true;
+            for (int i = 0; i < arr.size() - 1; i++) {
+                if (arr.get(i) > arr.get(i + 1)) {
+                    isSorted = false;
+                    break;
+                }
+            }
+
+            if (isSorted) return ops;
+
+            long minSum = -1;
+            int minIdx = -1;
+
+            for (int i = 0; i < arr.size() - 1; i++) {
+                long currentSum = arr.get(i) + arr.get(i + 1);
+                if (minIdx == -1 || currentSum < minSum) {
+                    minSum = currentSum;
+                    minIdx = i;
+                }
+            }
+
+            arr.set(minIdx, minSum);
+            arr.remove(minIdx + 1);
             ops++;
         }
-        return ops;
-    }
-
-    private boolean isSorted(List <Integer> v) {
-        for(int i = 0; i < v.size() - 1; i ++){
-            if(v.get(i) > v.get(i + 1)) return false;
-        }
-        return true;
     }
 }
