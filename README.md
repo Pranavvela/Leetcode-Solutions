@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
@@ -47,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
