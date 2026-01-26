@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [1200-minimum-absolute-difference](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
@@ -123,6 +124,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
