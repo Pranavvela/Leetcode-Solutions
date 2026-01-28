@@ -18,6 +18,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
