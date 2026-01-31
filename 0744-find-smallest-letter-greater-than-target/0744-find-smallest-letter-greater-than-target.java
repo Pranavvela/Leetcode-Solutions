@@ -1,19 +1,20 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        char res = letters[0];
-        boolean flag = false;
+        int left = 0;
+        int right = letters.length - 1;
+        char answer = letters[0];
 
-        for(char ch : letters){
-            if(!flag){
-                if(ch > target){
-                    res = ch;
-                    flag = !flag;
-                }
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (letters[mid] > target) {
+                answer = letters[mid];
+                right = mid - 1;
             } else {
-                if(ch > target && ch < res)res = ch;
+                left = mid + 1;
             }
         }
 
-        return res;
+        return answer;
     }
 }
