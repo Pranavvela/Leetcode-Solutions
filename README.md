@@ -61,6 +61,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
@@ -149,4 +150,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
