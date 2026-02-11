@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranavvela/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
